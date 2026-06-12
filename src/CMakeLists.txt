@@ -18,4 +18,3 @@ target_include_directories(chess_engine
     PUBLIC
         ${PROJECT_SOURCE_DIR}/include
 )
-fvfv
